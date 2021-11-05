@@ -14,4 +14,8 @@ responsive hompage 반응형 홈페이지
 
 ### section 1
 
-1. article 1: Global New DP5 / LOHAS 미션 실천을 위해 새롭게 정의한 풀무원 5대 비전입니다. / 회사소개 
+1. article 1 : Global New DP5 / LOHAS 미션 실천을 위해 새롭게 정의한 풀무원 5대 비전입니다. / 회사소개 
+
+2. article 2 :
+
+3. article 3 : 
