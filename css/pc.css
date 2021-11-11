@@ -8,13 +8,21 @@
 }
 #main-header h1{
     margin-left: 20px;
+    /* outline: 1px solid red; */
 }
+
+#main-header h1 a img {
+    /* outline: 1px solid blue; */
+    vertical-align: middle;
+}
+
 #gnb{
     margin-right: 20px;
 }
 #gnb ul{
     /* 우선순위 !important 해줘야 pc화면에서 안사라짐 */
     display: flex!important; 
+    margin-top: 20px;
 }
 #gnb > ul > li{
     margin-left:30px;
@@ -44,8 +52,9 @@
     text-align: center;
 }
 #main-visual h2{
-    font-size:60px;
+    font-size: 56px;
     font-weight: 500;
+    text-shadow: 0 3px 7px #000;
 }
 
 /* 메인컨텐츠 */
