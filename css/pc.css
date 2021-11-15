@@ -29,6 +29,10 @@
     margin-right: 30px;
 }
 
+#gnb li > a:hover {
+    color: rgb(0, 121, 60);
+}
+
 #toggle-btn{
     display: none;
 }
@@ -105,8 +109,8 @@
 
 .txt-box h2 img {
     /* outline: 1px solid red; */
-    width: 35px;
-    height: 35px;
+    width: 33px;
+    height: 32px;
 
 }
 
