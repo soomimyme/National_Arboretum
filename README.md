@@ -14,6 +14,8 @@ responsive hompage 반응형 홈페이지
 
 - favicon 추가
 
+- 오픈그래프 이미지 추가
+
 # 홈페이지 주요 콘텐츠 구성
 
 ### section 1
