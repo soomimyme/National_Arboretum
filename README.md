@@ -12,6 +12,8 @@ responsive hompage 반응형 홈페이지
 
 - 아이콘 라이브러리 boxicons 활용
 
+- 
+
 # 홈페이지 주요 콘텐츠 구성
 
 ### section 1
